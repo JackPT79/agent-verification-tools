@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.JackPT79/agent-verification-tools",
+  "title": "Agent Verification Tools (Apify)",
+  "description": "Google Trends summaries, job-post status, RFP addendum diffs, exact-SKU offer checks. Pay per result.",
+  "version": "1.0.0",
+  "remotes": [{
+    "type": "streamable-http",
+    "url": "https://mcp.apify.com/?tools=nickatnite79/google-trends-agent-summary,nickatnite79/job-listing-rechecker,nickatnite79/rfp-amendment-analyzer,nickatnite79/shopping-offer-verifier"
+  }]
+}
