@@ -6,6 +6,6 @@
   "version": "1.0.0",
   "remotes": [{
     "type": "streamable-http",
-    "url": "https://mcp.apify.com/?tools=nickatnite79/google-trends-agent-summary,nickatnite79/job-listing-rechecker,nickatnite79/rfp-amendment-analyzer,nickatnite79/shopping-offer-verifier"
+    "url": "https://mcp.apify.com/?tools=nickatnite79/google-trends-agent-summary,nickatnite79/job-status-checker,nickatnite79/rfp-amendment-analyzer,nickatnite79/shopping-offer-verifier"
   }]
 }
