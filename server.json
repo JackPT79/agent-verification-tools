@@ -3,7 +3,7 @@
   "name": "io.github.JackPT79/agent-verification-tools",
   "title": "Agent Verification Tools (Apify)",
   "description": "Google Trends summaries, job-post status, RFP addendum diffs, and exact-SKU offer checks.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [{
     "type": "streamable-http",
     "url": "https://mcp.apify.com/?tools=nickatnite79/google-trends-agent-summary,nickatnite79/job-status-checker,nickatnite79/rfp-amendment-analyzer,nickatnite79/shopping-offer-verifier"
